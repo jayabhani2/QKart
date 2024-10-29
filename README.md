@@ -1,4 +1,4 @@
-# E-commerce Website using React and Redux
+# Qkart
 
 Welcome to the E-commerce Website project! This application is designed to showcase various features of React and Redux for building a modern and responsive e-commerce platform.
 
@@ -20,12 +20,12 @@ To get started with this project, follow these steps:
 1. Fork and clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/E-commerce-website-using-React-Redux.git
+   git clone git@github.com:jayabhani2/QKart.git
    ```
 2. Install the required dependencies:
    
    ```bash
-   cd E-commerce-website-using-React-Redux
+   cd Qkart
    npm install
    ```
 3. Start the development server:
@@ -48,17 +48,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
-
-##  Snapshot 
-
-<img width="1258" alt="Screenshot 2023-08-13 at 11 05 22 PM" src="https://github.com/khushi2706/E-commerce-website-using-React-Redux/assets/67452985/e29df1a4-15c5-4bc2-889b-1b401a00fcda">
-<img width="1276" alt="Screenshot 2023-08-13 at 11 05 49 PM" src="https://github.com/khushi2706/E-commerce-website-using-React-Redux/assets/67452985/081dc93b-f17b-4d12-a625-37ab05ef16f9">
-
-## Contributing
-
-We welcome contributions from the community.
-
-------------------------------------------------------------------------
 
 Feel free to explore the codebase, test the application, and contribute to its development. If you have any questions or need assistance, please don't hesitate to reach out.
 
